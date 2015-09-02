@@ -82,3 +82,11 @@ form input[type=text] {
 .spinner img {
     padding: 10px;
 }
+
+.tweet {
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
